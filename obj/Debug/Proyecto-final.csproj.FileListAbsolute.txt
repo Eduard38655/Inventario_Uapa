@@ -1,0 +1,13 @@
+C:\Users\eduao\source\repos\Proyecto-final\bin\Debug\Proyecto-final.exe.config
+C:\Users\eduao\source\repos\Proyecto-final\bin\Debug\Proyecto-final.exe
+C:\Users\eduao\source\repos\Proyecto-final\bin\Debug\Proyecto-final.pdb
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto-final.csproj.AssemblyReference.cache
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto-final.csproj.GenerateResource.cache
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto-final.csproj.CoreCompileInputs.cache
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto-final.exe
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto-final.pdb
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto_final.EditItems.resources
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto_final.logIn.resources
+C:\Users\eduao\source\repos\Proyecto-final\obj\Debug\Proyecto_final.ResetClave.resources

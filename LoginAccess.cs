@@ -33,7 +33,7 @@ namespace Proyecto_final
             if (dataTable.Rows.Count>0)
             {
                 MessageBox.Show("Bienvenido");
-                Form1 inicio = new Form1();
+                Menu inicio = new Menu();
                 inicio.Show();
             }
             else

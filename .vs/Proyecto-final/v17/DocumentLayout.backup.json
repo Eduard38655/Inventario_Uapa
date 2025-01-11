@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C980A2-7238-4869-A48F-0BED3C12AAAC}|Proyecto-final.csproj|c:\\users\\ray ramon u\\onedrive\\documents\\github\\inventario_uapa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59C980A2-7238-4869-A48F-0BED3C12AAAC}|Proyecto-final.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C980A2-7238-4869-A48F-0BED3C12AAAC}|Proyecto-final.csproj|c:\\users\\ray ramon u\\onedrive\\documents\\github\\inventario_uapa\\loginaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C980A2-7238-4869-A48F-0BED3C12AAAC}|Proyecto-final.csproj|solutionrelative:loginaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C980A2-7238-4869-A48F-0BED3C12AAAC}|Proyecto-final.csproj|c:\\users\\ray ramon u\\onedrive\\documents\\github\\inventario_uapa\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C980A2-7238-4869-A48F-0BED3C12AAAC}|Proyecto-final.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C980A2-7238-4869-A48F-0BED3C12AAAC}|Proyecto-final.csproj|c:\\users\\ray ramon u\\onedrive\\documents\\github\\inventario_uapa\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59C980A2-7238-4869-A48F-0BED3C12AAAC}|Proyecto-final.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\LoginAccess.cs",
+              "RelativeDocumentMoniker": "LoginAccess.cs",
+              "ToolTip": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\LoginAccess.cs",
+              "RelativeToolTip": "LoginAccess.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:37:42.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "logIn.cs",
+              "DocumentMoniker": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\logIn.cs",
+              "RelativeDocumentMoniker": "logIn.cs",
+              "ToolTip": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\logIn.cs",
+              "RelativeToolTip": "logIn.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:37:09.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "logIn.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\logIn.cs",
+              "RelativeDocumentMoniker": "logIn.cs",
+              "ToolTip": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\logIn.cs [Dise\u00F1o]",
+              "RelativeToolTip": "logIn.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:37:06.741Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Ray Ramon U\\OneDrive\\Documents\\GitHub\\Inventario_Uapa\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:33:01.476Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
